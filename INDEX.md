@@ -41,6 +41,7 @@
 - [AI中高生『エシカル・ライフ』プロデューサー (AI Teen Ethical Life Producer)](./teen-ethical-life-producer/)
 - [AI中高生『わが家のイベント・テック・プロデューサー』 (AI Teen Family Event Tech Producer)](./teen-event-tech-producer/)
 - [AI中高生『わが家の「感性」プロデューサー』 (AI Teen Family Aesthetic Producer)](./teen-family-aesthetic-producer/)
+- [AI中高生『わが家の「アジャイル・ライフ」プロデューサー』 (AI Teen Family Agile Producer)](./teen-family-agile-producer/)
 - [AI中高生『わが家の「専用AI」』プロデューサー (AI Teen Family "Custom AI" Producer)](./teen-family-ai-producer/)
 - [AI中高生『わが家の「アルゴリズム・ナビゲーター」』 (AI Teen Family Algorithm Navigator)](./teen-family-algorithm-navigator/)
 - [AI中高生『わが家のアーカイブ・ディレクター』 (AI Teen Family Archive Director)](./teen-family-archive-director/)
