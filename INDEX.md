@@ -71,6 +71,7 @@
 - [AI中高生『わが家の「グローバル・ナビゲーター」』 (AI Teen Family Global Navigator)](./teen-family-global-navigator/)
 - [AI中高生『わが家の「おもてなし」コンシェルジュ』 (AI Teen Family Hospitality Concierge)](./teen-family-hospitality-concierge/)
 - [AI中高生『わが家の「ユーモア・プロデューサー」』 (AI Teen Family Humor Producer)](./teen-family-humor-producer/)
+- [AI中高生『わが家の「生きがい」ナビゲーター』 (AI Teen Family "Ikigai" Navigator)](./teen-family-ikigai-navigator/)
 - [AI中高生『わが家の「インテリジェンス・マネージャー」』 (AI Teen Family Intelligence Manager)](./teen-family-intelligence-manager/)
 - [AI中高生『わが家の「暗黙知」マネージャー』 (AI Teen Family Knowledge Manager)](./teen-family-knowledge-manager/)
 - [AI中高生『家族の自由研究』ラボ (AI Teen Family Lab)](./teen-family-lab/)
