@@ -53,6 +53,7 @@
 - [AI中高生『わが家の「循環型生活」プロデューサー』 (AI Teen Family Circular Life Producer)](./teen-family-circular-life-producer/)
 - [AI中高生『わが家の「シチズン・サイエンス」リーダー』 (AI Teen Family Citizen Science Leader)](./teen-family-citizen-science-leader/)
 - [AI中高生『わが家の「シビック・アクション」リーダー』 (AI Teen Family Civic Action Leader)](./teen-family-civic-action-leader/)
+- [AI中高生『わが家の「コンフリクト・メディエーター」』 (AI Teen Family Conflict Mediator)](./teen-family-conflict-mediator/)
 - [AI中高生『わが家の「クリエイティブ・コーディング」メンター』 (AI Teen Family Creative Coding Mentor)](./teen-family-creative-coding-mentor/)
 - [AI中高生『わが家の「クリティカル・フレンズ」プロデューサー』 (AI Teen Family "Critical Friends" Producer)](./teen-family-critical-friends-producer/)
 - [AI中高生『わが家の「ダイバーシティ＆インクルージョン」ナビゲーター』 (AI Teen Family D&I Navigator)](./teen-family-di-navigator/)
