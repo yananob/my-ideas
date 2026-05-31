@@ -56,6 +56,7 @@
 - [AI中高生『わが家の「コンフリクト・メディエーター」』 (AI Teen Family Conflict Mediator)](./teen-family-conflict-mediator/)
 - [AI中高生『わが家の「クリエイティブ・コーディング」メンター』 (AI Teen Family Creative Coding Mentor)](./teen-family-creative-coding-mentor/)
 - [AI中高生『わが家の「クリティカル・フレンズ」プロデューサー』 (AI Teen Family "Critical Friends" Producer)](./teen-family-critical-friends-producer/)
+- [AI中高生『わが家の「好奇心スカウター」』プロデューサー (AI Teen Family Curiosity Scouter)](./teen-family-curiosity-scouter/)
 - [AI中高生『わが家の「ダイバーシティ＆インクルージョン」ナビゲーター』 (AI Teen Family D&I Navigator)](./teen-family-di-navigator/)
 - [AI中高生『わが家の「デジタル資産・遺産」マネージャー』 (AI Teen Family Digital Estate Manager)](./teen-family-digital-estate-manager/)
 - [AI中高生『わが家の「デジタル・マナー＆同意」リーダー』 (AI Teen Family Digital Etiquette & Consent Leader)](./teen-family-digital-etiquette-leader/)
