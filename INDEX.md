@@ -95,6 +95,7 @@
 - [AI中高生『わが家の「関係性リデザイン」プロデューサー』 (AI Teen Family Relationship Redesigner)](./teen-family-relationship-redesigner/)
 - [AI中高生『わが家のレジリエンス・リーダー』 (AI Teen Family Resilience Leader)](./teen-family-resilience-leader/)
 - [AI中高生『わが家の「リスキリング・バディ」』 (AI Teen Family Reskilling Buddy)](./teen-family-reskilling-buddy/)
+- [AI中高生『わが家の「ルーツ」探求プロデューサー』 (AI Teen Family Roots Explorer)](./teen-family-roots-explorer/)
 - [AI中高生『わが家の「セレンディピティ」・プロデューサー』 (AI Teen Family Serendipity Producer)](./teen-family-serendipity-producer/)
 - [AI中高生『わが家の「ソーシャル・インパクト」プロデューサー』 (AI Teen Family Social Impact Producer)](./teen-family-social-impact-producer/)
 - [AI中高生『わが家の「お悩み解決・壁打ち」パートナー』 (AI Teen Family Problem-Solving Sparring Partner)](./teen-family-sparring-partner/)
